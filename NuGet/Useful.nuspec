@@ -2,15 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>2a486f72.Useful</id>
-		<version>1.0.0</version>
-		<title />
+		<version>1.0.1</version>
 		<authors>2a486f72</authors>
 		<owners />
+		<projectUrl>https://github.com/2a486f72/useful</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>A bag of useful small things.</description>
-		<summary />
 	</metadata>
 	<files>
-		<file src="..\Useful\bin\release\2a486f72.Useful.*" target="lib\portable-net45+win8+sl5+wp8" />
+		<file src="..\Useful\bin\release\2a486f72.Useful.dll" target="lib\portable-net45+win8+sl5+wp8" />
 	</files>
 </package>
