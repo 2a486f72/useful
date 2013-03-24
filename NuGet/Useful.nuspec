@@ -2,11 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>2a486f72.Useful</id>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 		<authors>2a486f72</authors>
 		<owners />
+		<licenseUrl>http://www.gnu.org/copyleft/lesser.html</licenseUrl>
 		<projectUrl>https://github.com/2a486f72/useful</projectUrl>
-		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<requireLicenseAcceptance>true</requireLicenseAcceptance>
 		<description>A bag of useful small things.</description>
 	</metadata>
 	<files>
