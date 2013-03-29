@@ -6,8 +6,6 @@ This is just a bag of useful small things that are used in various projects. The
 This is a Portable Library project, supporting the following platforms:
 
 * .NET 4.5
-* Silverlight 5
 * Windows Runtime
-* Windows Phone 8
 
 Feel free to use for whatever purpose. Contributions are welcome if they are aligned with the needs of projects where this library is currently being used.
