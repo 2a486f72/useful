@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>2a486f72.Useful</id>
-		<version>1.0.3</version>
+		<version>1.0.4</version>
 		<authors>2a486f72</authors>
 		<owners />
 		<licenseUrl>http://www.gnu.org/copyleft/lesser.html</licenseUrl>
@@ -11,6 +11,6 @@
 		<description>A bag of useful small things.</description>
 	</metadata>
 	<files>
-		<file src="..\Useful\bin\release\2a486f72.Useful.dll" target="lib\portable-net45+win8+sl5+wp8" />
+		<file src="..\Useful\bin\release\2a486f72.Useful.dll" target="lib\portable-net45+win8" />
 	</files>
 </package>
