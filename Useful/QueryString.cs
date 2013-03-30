@@ -7,7 +7,7 @@ namespace Useful
 
 	/// <summary>
 	/// Represents the query string of a <see cref="Uri"/> and allows its constituent parameters to be easily modified.
-	/// Axinom Toolkit provides <see cref="Uri"/> extension methods to enable simple co-operation of the two types.
+	/// this library provides <see cref="Uri"/> extension methods to enable simple co-operation of the two types.
 	/// Note that query string parameter names are case-insensitive.
 	/// 
 	/// See <see cref="ExtensionsForUri"/>.
